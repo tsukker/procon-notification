@@ -1,0 +1,6 @@
+---
+applications:
+- name: ProconNotification
+  random-route: true
+  memory: 256M
+  command: bundle exec clockwork schedule.rb
