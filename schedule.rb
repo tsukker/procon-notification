@@ -6,7 +6,7 @@ require 'clockwork'
 include Clockwork
 
 last_id = 9 * 10**18
-last_id = 844292543449874433
+last_id = 843930397188767746
 
 handler do |job|
   case job
