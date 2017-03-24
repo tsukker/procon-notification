@@ -1,1 +1,1 @@
-clock: bundle exec clockwork schedule.rb
+web: bundle exec clockwork schedule.rb
